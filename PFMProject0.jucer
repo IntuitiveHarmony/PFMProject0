@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="bRe71u" name="PFMProject0" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" pluginCharacteristicsValue="pluginIsSynth"
+              pluginManufacturer="Intuitive Harmony" companyName="Intuitive Harmony">
   <MAINGROUP id="wdQsVY" name="PFMProject0">
     <GROUP id="{7C483C80-0269-350C-CEBF-2271D5E13990}" name="Source">
       <FILE id="YlP497" name="PluginProcessor.cpp" compile="1" resource="0"
